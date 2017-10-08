@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "sunnyraj10411/satya_kaggle",
+  "container_gpu": "sunnyraj10411/satya_kaggle",
+  "entry_point": "run_defense.sh"
+}
